@@ -1,4 +1,4 @@
-;// Krista Ghazaleh
+;// Elle Grace Jen
 ;// CSIS-118B-3772
 ;// 09/23/2018
 ;// Test 2
