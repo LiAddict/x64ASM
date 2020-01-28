@@ -1,4 +1,4 @@
-;// Krista Ghazaleh
+;// Elle Grace Jen
 ;// CSIS-118B-3772
 ;// 10/14/18
 ;// Midterm
