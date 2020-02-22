@@ -1,7 +1,3 @@
-;// Elle Grace Jen
-;// CSIS-118B-3772
-;// 10/21/18
-;// Test 3
 
 INCLUDE c:\Irvine\Irvine32.inc
 
