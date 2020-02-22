@@ -1,8 +1,3 @@
-;// Elle Grace Jen
-;// CSIS-118B-3772
-;// 10/28/2018
-;// Lab6B
-
 INCLUDE c:\Irvine\Irvine32.inc
 
 ;// .386
