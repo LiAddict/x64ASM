@@ -1,7 +1,3 @@
-;// Elle Grace Jen
-;// CSIS-118B-3772
-;// 11/18/2018
-;// Test 4 Main
 
 INCLUDE c:\Irvine\Irvine32.inc
 strCat PROTO
