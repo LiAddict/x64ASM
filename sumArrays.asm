@@ -1,7 +1,3 @@
-;// Elle Grace Jen
-;// CSIS-118B-3772
-;// 12/14/2018
-;// Final
 INCLUDE c:\Irvine\Irvine32.inc
 FillArray PROTO,				;// declares FillArray proto
 myArray: PTR DWORD,				;// creates array parameter that points to a DWORD
